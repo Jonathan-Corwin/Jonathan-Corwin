@@ -28,21 +28,10 @@ I work at the intersection of **Natural Language Processing**, **Computer Vision
 
 ## 📌 Featured Projects
 
-### 🧠 histo-image-language-learning *(MICCAI 2024)*
-🔗 https://github.com/Jonathan-Corwin/histo-image-language-learning  
-Hierarchical Language-Self-Supervised Study (HLSS) exploring multiscale semantic structure in histopathology images.
-
----
 
 ### 👁️ Retina-Image-Segment
 🔗 https://github.com/Jonathan-Corwin/Retina-Image-Segment  
 Classical and learning-based vasculature segmentation following Hoover & Zhang.
-
----
-
-### 💬 Ask-to-Execute-Enhanced *(NAACL 2022)*
-🔗 https://github.com/Jonathan-Corwin/Ask-to-Execute-Enhanced  
-Dataset and code for *Learning to Execute Actions or Ask Clarification Questions*.
 
 ---
 
