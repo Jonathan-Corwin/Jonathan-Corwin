@@ -21,13 +21,18 @@ I am a developer and researcher based in **Baltimore, MD, USA**. My work focuses
 </p>
 
 ---
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonathan-Corwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jonathan-Corwin's stats" />
+</p>
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-Corwin&theme=tokyonight" alt="Profile Details" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonathan-Corwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jonathan-Corwin's GitHub stats" />
-</div>
-
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonathan-Corwin&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</p>
 
 ---
 
