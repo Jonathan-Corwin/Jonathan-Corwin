@@ -1,8 +1,6 @@
 # Hi there, I'm Timothy Lin 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jonathan-Corwin&color=blueviolet)](https://github.com/Jonathan-Corwin)
-
-I am a developer and researcher based in **Vancouver, Canada** 🇨🇦. My work focuses on **Natural Language Processing**, **Computer Vision**, and **Medical Imaging**.
+I am a developer and researcher based in **Baltimore, MD, USA**. My work focuses on **Natural Language Processing**, **Computer Vision**, and **Medical Imaging**.
 
 ---
 
