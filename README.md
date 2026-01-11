@@ -24,15 +24,8 @@ I am a developer and researcher based in **Baltimore, MD, USA**. My work focuses
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-Corwin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jonathan-Corwin&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Jonathan-Corwin" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonathan-Corwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jonathan-Corwin's GitHub stats" />
 </div>
 
 
